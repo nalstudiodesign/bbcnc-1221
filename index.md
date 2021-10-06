@@ -21,7 +21,7 @@ Les modèles dans chaque série sont définis suivant:
 3. la mécanique de contrôle des déplacements et mouvements
 ```
 
-<img width="980" alt="_BBCNC721-gln1-XCHS1vb_100" src="https://user-images.githubusercontent.com/35311681/136228054-3da6de59-54b4-43db-af43-f59d5275c945.gif">
+<img width="980" alt="_BBCNC721-gln1-XCHS0vb_100" src="https://user-images.githubusercontent.com/35311681/136230717-354b8fdb-71fa-4141-916f-8bca9cb93fed.gif">
 
 
 ```markdown
@@ -37,6 +37,14 @@ mécanique de guidage spécifique [gln1_bbcnc-721series]
 ```
 
 <img width="980" alt="_BBCNC721-hg20-XCHS1vb_200" src="https://user-images.githubusercontent.com/35311681/136183348-e568faa9-0b68-4a03-9a17-503029f6eaa2.gif">
+**Le guidage linéaire par blocs prismatiques type HIWIN 
+_blocks hgw20hb et hgw20cb sur rails prismatiques hgr20_ 
+mécanique de guidage  [hg20_bbcnc-721series]**
+
+<img width="980" alt="_BBCNC721-gln1-XCHS1vb_100" src="https://user-images.githubusercontent.com/35311681/136228054-3da6de59-54b4-43db-af43-f59d5275c945.gif">
+**Le guidage linéaires par patins à roulements à billes 698-2Z (8-19-6mm) 
+sur rail en profilé acier plat de (6x40mm).
+mécanique de guidage spécifique [gln1_bbcnc-721series]**
 
 Trois type de mécanismes de contrôle des mouvements :
 1. vis à billes; écrou en rotation sur vis à billes 

@@ -65,6 +65,28 @@ c'est un mécanisme optimisé, d'écrou en rotation sur vis à billes, pour cnc 
 
 Le mécanisme "bbcnc721 rotating ball-nut" (écrou en rotation sur vis à billes), assure un contrôle mécanique très précis et peu coûteux des mouvements linéaires, sur toutes cnc professionnelles à portiques mobiles et à forte charge.
 
+<img width="980" alt="evb721-v400-50" src="https://user-images.githubusercontent.com/35311681/136235251-00c547c7-00fa-477d-a958-4964cd95b7b6.gif">
+
+Ce mécanisme puissant et polyvalent est peu coûteux; il est composé uniquement de composants standards spécifiques à la construction des équipements industriels.
+Seulement cinq composants standard, disponibles auprès de tous les fournisseurs des pièces pour machines industrielles. ces cinq composants sont :
+
+<img width="980" alt="evb1610bbcnc_parts300" src="https://user-images.githubusercontent.com/35311681/136236281-243debc3-8229-422a-9b05-4a953e147114.gif">
+
+1. 1 palier applique type UCF204 
+2. 1 poulie spéciale type HTD5M _ [pièce spéciale poulie bbcnc] 
+3. 1 jeu de vis à billes + écrou à billes SFU1610 
+4. 1 courroie synchrone type HTD5M 
+5. 1 poulie standard type HTD5M - poulie motrice
+_**et c'est tout**_
+
+<img width="980" alt="evb1610bbcnc_parts201" src="https://user-images.githubusercontent.com/35311681/136236661-51dde5ee-6acd-474a-82a3-fdda0a0dae19.gif">
+
+La première optimisation du mécanisme "bbcnc721 rotating ball-nut" (écrou en rotation sur vis à billes), c'est de **faire avec une vis à billes, des contrôles mécaniques des mouvements linéaires, qui demeurent toujours fiables, robustes, efficaces, à moindre coût. Même en utilisant des vis à billes roulées SFU "standard et basiques"**.
+
+Un autre aspect optimisé de ce mécanisme "bbcnc721 rotating ball-nut" (écrou en rotation sur vis à billes) est que ; **l'utilisation de vis à billes de grand diamètre n'est pas pertinente dans cette configuration, car la vis à billes est fixe, et n'est pas sollicitée en torsion. L'écrou étant en rotation, et en déplacement linéaire le long de la vis,** _ce ne sont essentiellement que des efforts de traction, qui s'exercent dans la normale de l'axe de la vis à billes_ .
+
+
+_Les vidéos (gifs) montrent le mécanisme "bbcnc721 rotating ball-nut" (écrou en rotation sur vis à billes), spécifique aux séries bbcnc721 et bbcnc921 ; avec palier applique UCF204 et vis à billes SFU1610_ .
 
 
 

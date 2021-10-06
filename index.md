@@ -10,6 +10,7 @@ Les systèmes bbcnc construisent des machines d’usinage numérique performante
 
 ### Développés par nal.studiodesign, **Les systèmes mécatroniques bbcnc** sont déclinés en plusieurs séries comprenant chacune plusieurs modèles de cnc. Chaque série regroupe des configurations qui ont la même structure mécanique.
 
+![_XXYZ1-bbcnc721_hg20-102](https://github.com/nalstudiodesign/bbcnc-721-921/blob/4b31ef2b4ccdc189e267c6878b3c85096d43aeb5/_XXYZ1-bbcnc721_hg20-102.gif)
 
 ```markdown
 Les modèles dans chaque série sont définis suivant:
@@ -19,6 +20,7 @@ Les modèles dans chaque série sont définis suivant:
 3. la mécanique de contrôle des déplacements et mouvements
 ```
 
+![_BBCNC721-gln1-XCHS1vb_100](https://github.com/nalstudiodesign/bbcnc-721-921/blob/4b31ef2b4ccdc189e267c6878b3c85096d43aeb5/_BBCNC721-gln1-XCHS1vb_100.gif)
 
 ```markdown
 deux types de guidages linéaires sont aussi disponibles : 

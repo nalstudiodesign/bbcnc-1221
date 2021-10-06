@@ -89,6 +89,19 @@ Un autre aspect optimisé de ce mécanisme "bbcnc721 rotating ball-nut" (écrou 
 _Les vidéos (gifs) montrent le mécanisme "bbcnc721 rotating ball-nut" (écrou en rotation sur vis à billes), spécifique aux séries bbcnc721 et bbcnc921 ; avec palier applique UCF204 et vis à billes SFU1610_ .
 
 
+## RUBRIQUES DES PUBLICATIONS ##
+
+1- de quoi c'est fait: **la mécanique fonctionnelle**
+        - les pièces mécaniques fabriquées (acier, aluminium, bois)
+        - les pièces produites par impression 3D
+        - les composants mécaniques achetés
+
+
+2- de quoi c'est fait: **l'électronique de puissance et de commande**
+        - les moteurs et drivers
+        - l'électronique de commande
+
+
 
 
 

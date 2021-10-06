@@ -36,6 +36,7 @@ mécanique de guidage spécifique [gln1_bbcnc-721series]
 
 ```
 
+<img width="980" alt="_BBCNC721-hg20-XCHS1vb_200" src="https://user-images.githubusercontent.com/35311681/136183348-e568faa9-0b68-4a03-9a17-503029f6eaa2.gif">
 
 Trois type de mécanismes de contrôle des mouvements :
 1. vis à billes; écrou en rotation sur vis à billes 
@@ -45,7 +46,6 @@ Trois type de mécanismes de contrôle des mouvements :
 
 
 
-<img width="980" alt="_BBCNC721-hg20-XCHS1vb_200" src="https://user-images.githubusercontent.com/35311681/136183348-e568faa9-0b68-4a03-9a17-503029f6eaa2.gif">
 
 
 

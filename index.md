@@ -2,7 +2,7 @@
 
 ### Systèmes cnc optimisés pour l'artisanat de production
 
-<img width="480" alt="BBCNC721_XXYZ-hg20vb-Vue14" src="https://user-images.githubusercontent.com/35311681/136183113-a0122be0-8448-4d5b-8df6-68a7fe8aec90.png">
+<img width="980" alt="BBCNC721_XXYZ-hg20vb-Vue14" src="https://user-images.githubusercontent.com/35311681/136183113-a0122be0-8448-4d5b-8df6-68a7fe8aec90.png">
 
 BBCNC, une nouvelle variété de systèmes mécaniques-électromécaniques complets, prêts à l’usage, et  optimisés, pour disposer simplement de très bonnes cnc professionnelles à portiques mobiles ... dédiées à l’artisanat de production… et à tous les makers.
 
@@ -14,10 +14,9 @@ Les systèmes bbcnc construisent des machines d’usinage numérique performante
 ```markdown
 Les modèles dans chaque série sont définis suivant:
 
-1. **les matériaux qui composent la structure mécanique fonctionnelle du système**
-2. **le mécanisme adopté pour les guidages linéaires**
-3. **la mécanique de contrôle des déplacements et mouvements**
-
+1. les matériaux qui composent la structure mécanique fonctionnelle du système
+2. le mécanisme adopté pour les guidages linéaires
+3. la mécanique de contrôle des déplacements et mouvements
 ```
 
 
@@ -26,10 +25,10 @@ deux types de guidages linéaires sont aussi disponibles :
 
 1. Le guidage linéaire par blocs prismatiques type HIWIN 
 _blocks hgw20hb et hgw20cb sur rails prismatiques hgr20_ 
-**mécanique de guidage  [hg20_bbcnc-721series]**
+mécanique de guidage  [hg20_bbcnc-721series]
 2. Le guidage linéaires par patins à roulements à billes 698-2Z (8-19-6mm) 
 sur rail en profilé acier plat de (6x40mm).
-**mécanique de guidage spécifique [gln1_bbcnc-721series]**
+mécanique de guidage spécifique [gln1_bbcnc-721series]
 
 ```
 

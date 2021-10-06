@@ -6,7 +6,7 @@
 
 BBCNC, une nouvelle variété de systèmes mécaniques-électromécaniques complets, prêts à l’usage, et  optimisés, pour disposer simplement de très bonnes cnc professionnelles à portiques mobiles ... dédiées à l’artisanat de production… et à tous les makers.
 
-Les systèmes bbcnc construisent des machines d’usinage numérique performantes et peu coûteuses, en grands formats comme en petits formats ; **des cnc professionelles numériques robustes et précises, puissantes et rapides** … à prix optimisés … à petits prix.
+Les systèmes bbcnc construisent des machines d’usinage numérique performantes et peu coûteuses, en grands formats comme en petits formats ; **des cnc professionelles robustes et précises, puissantes et rapides** … à prix optimisés … **à petits prix**.
 
 ### Développés par nal.studiodesign, **Les systèmes mécatroniques bbcnc** sont déclinés en plusieurs séries comprenant chacune plusieurs modèles de cnc. Chaque série regroupe des configurations qui ont la même structure mécanique.
 
@@ -43,7 +43,7 @@ Trois type de mécanismes de contrôle des mouvements :
 
 
 
-![_BBCNC721-hg20-XCHS1vb_200](https://user-images.githubusercontent.com/35311681/136183348-e568faa9-0b68-4a03-9a17-503029f6eaa2.gif)
+<img width="980" alt="_BBCNC721-hg20-XCHS1vb_200" src="https://user-images.githubusercontent.com/35311681/136183348-e568faa9-0b68-4a03-9a17-503029f6eaa2.gif">
 
 
 

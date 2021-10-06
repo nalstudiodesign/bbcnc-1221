@@ -47,9 +47,23 @@ sur rail en profilé acier plat de (6x40mm).
 mécanique de guidage spécifique [gln1_bbcnc-721series]**
 
 Trois type de mécanismes de contrôle des mouvements :
-1. vis à billes; écrou en rotation sur vis à billes 
+1. **vis à billes; écrou en rotation sur vis à billes** 
 2. pignon-crémaillère démultiplié. 
 3. pignon-courroie démultiplié.
+
+
+**Ce document présente les systèmes bbcnc-721série et 921série
+équipés du mécanisme de vis à billes, bbcnc rotating balls-nut.**
+_mécanismes de contrôle des mouvements par vis à billes, avec écrou en rotation sur vis à billes_, 
+pour les séries bbcnc721 et bbcnc921 ; avec palier applique UCF204 et vis à billes SFU1610.
+
+<img width="980" alt="evb721-v600-50" src="https://user-images.githubusercontent.com/35311681/136234438-c0255107-e41e-4b79-9998-abcc92ab50a1.gif">
+
+Voici le mécanisme "bbcnc721 rotating ball-nut"
+
+c'est un mécanisme optimisé, d'écrou en rotation sur vis à billes, pour cnc professionnelles puissantes précises et pas cher. Un mécanisme fiable et robuste, efficace à faible coût; composé uniquement de 5 composants standards pour la construction des machines industrielles.
+
+Le mécanisme "bbcnc721 rotating ball-nut" (écrou en rotation sur vis à billes), assure un contrôle mécanique très précis et peu coûteux des mouvements linéaires, sur toutes cnc professionnelles à portiques mobiles et à forte charge.
 
 
 

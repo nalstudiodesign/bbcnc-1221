@@ -20,7 +20,7 @@ Les modèles dans chaque série sont définis suivant:
 3. la mécanique de contrôle des déplacements et mouvements
 ```
 
-![_BBCNC721-gln1-XCHS1vb_100](https://github.com/nalstudiodesign/bbcnc-721-921/blob/4b31ef2b4ccdc189e267c6878b3c85096d43aeb5/_BBCNC721-gln1-XCHS1vb_100.gif)
+<img width="980" alt="_BBCNC721-gln1-XCHS1vb_100" src="https://github.com/nalstudiodesign/bbcnc-721-921/blob/4b31ef2b4ccdc189e267c6878b3c85096d43aeb5/_BBCNC721-gln1-XCHS1vb_100.gif">
 
 ```markdown
 deux types de guidages linéaires sont aussi disponibles : 

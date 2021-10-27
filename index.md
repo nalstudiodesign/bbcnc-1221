@@ -11,14 +11,13 @@ bbcnc, des systemes mécaniques optimisés pour construire des machines cnc aux 
 
 ### **Le système mécanique bbcnc compose toute la mécanique fonctionelle d'une machine cnc, avec seulement trois (3) modules mécaniques optimisé.**
 
-disponible en: 
-- système mécanique cnc standard (tableau 1)
-- système mécanique-électromécanique cnc complet (tableau 2)
-
 
 Les systèmes bbcnc construisent des machines d’usinage numérique performantes et peu coûteuses, en grands formats comme en petits formats ; **des cnc professionelles robustes et précises, puissantes et rapides** … à prix optimisés … **à petits prix**.
 
-### Développés par nal.studiodesign, **Les systèmes mécatroniques bbcnc** sont déclinés en plusieurs séries comprenant chacune plusieurs modèles de cnc. Chaque série regroupe des configurations qui ont la même structure mécanique.
+### Développés par nal.studiodesign, **Les systèmes mécatroniques bbcnc disponible en : 
+**1. système mécanique cnc standard (configuration 1)
+**2. système mécanique-électromécanique cnc complet (configuration 2) 
+**chaque configuration est déclinée en plusieurs séries définies par la structure mécanique des modules BBCNC et les matériaux mis en oeuvres pour la fabrication de chaque module.**
 
 <img width="980" alt="_XXYZ1-bbcnc721_hg20-102" src="https://user-images.githubusercontent.com/35311681/136227045-27012c63-fb7b-4569-b3c8-70294655f4c2.gif">
 

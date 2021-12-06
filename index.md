@@ -1,7 +1,7 @@
 ## BBCNC
 
 ### Systèmes cnc optimisés 
-- pour l'artisanat de production
+- pour usages professionnels et amateurs
 
 <img width="980" alt="BBCNC721_XXYZ-hg20vb-Vue14" src="https://user-images.githubusercontent.com/35311681/136183113-a0122be0-8448-4d5b-8df6-68a7fe8aec90.png">
 

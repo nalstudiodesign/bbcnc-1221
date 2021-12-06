@@ -99,7 +99,7 @@ La première optimisation du mécanisme "bbcnc721 rotating ball-nut" (écrou en 
 Un autre aspect optimisé de ce mécanisme "bbcnc721 rotating ball-nut" (écrou en rotation sur vis à billes) est que ; **l'utilisation de vis à billes de grand diamètre n'est pas pertinente dans cette configuration, car la vis à billes est fixe, et n'est pas sollicitée en torsion. L'écrou étant en rotation, et en déplacement linéaire le long de la vis,** _ce ne sont essentiellement que des efforts de traction, qui s'exercent dans la normale de l'axe de la vis à billes_ .
 
 
-_Les vidéos (gifs) montrent le mécanisme "bbcnc721 rotating ball-nut" (écrou en rotation sur vis à billes), spécifique aux séries bbcnc721 et bbcnc921 ; avec palier applique UCF204 et vis à billes SFU1610_ .
+_Les vidéos courtes (gifs) montrent le mécanisme "bbcnc721 rotating ball-nut" (écrou en rotation sur vis à billes), spécifique aux séries bbcnc721 et bbcnc921 ; avec palier applique UCF204 et vis à billes SFU1610_ .
 
 
 ## RUBRIQUES DES PUBLICATIONS ##
